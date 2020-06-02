@@ -11,4 +11,4 @@ spec:
     - name: "2310"
       protocol: TCP
       port: 80
-      targetPort: 2310
+      targetPort: 8100
